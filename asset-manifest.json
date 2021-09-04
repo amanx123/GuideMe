@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.956fad23.chunk.css",
+    "main.js": "/static/js/main.c8a0451e.chunk.js",
+    "main.js.map": "/static/js/main.c8a0451e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c4946b14.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c4946b14.js.map",
+    "static/js/2.607ebf82.chunk.js": "/static/js/2.607ebf82.chunk.js",
+    "static/js/2.607ebf82.chunk.js.map": "/static/js/2.607ebf82.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b93a739ce94464a35be2c6dfc02746aa.js": "/precache-manifest.b93a739ce94464a35be2c6dfc02746aa.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.607ebf82.chunk.js.LICENSE.txt": "/static/js/2.607ebf82.chunk.js.LICENSE.txt",
+    "static/media/amanagarwal.jpg": "/static/media/amanagarwal.2fdd48bd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4946b14.js",
+    "static/js/2.607ebf82.chunk.js",
+    "static/css/main.956fad23.chunk.css",
+    "static/js/main.c8a0451e.chunk.js"
+  ]
+}
